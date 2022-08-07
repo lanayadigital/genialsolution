@@ -1,0 +1,9 @@
+.navbar-nav :hover{
+    color: blue;
+   
+}
+
+.info{
+    --bs-bg-opacity: 0.05;
+
+}
